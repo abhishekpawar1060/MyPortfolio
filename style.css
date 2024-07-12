@@ -11,7 +11,7 @@ body{
 
 nav{
     display: flex;
-    justify-content: space-around;
+    justify-content: left;
     align-items: center;
     height: 3rem;
     background-color: #F46036;
@@ -25,6 +25,7 @@ nav ul{
 nav ul li{
     list-style: none;
     margin: 0 1rem;
+    font-size: 1.1rem;
 }
 
 nav ul li a{
@@ -34,11 +35,12 @@ nav ul li a{
 
 nav ul li a:hover{
     color: rgb(148, 148, 157);
-    font-size: 1.02rem;
+    font-size: 1rem;
 }
 
 .left{
-    font-size: 1.5rem;
+    font-size: 1.4rem;
+    margin: 0.8rem;
 
 }
 
