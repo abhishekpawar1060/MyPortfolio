@@ -34,8 +34,8 @@ nav ul li a{
 }
 
 nav ul li a:hover{
-    color: rgb(148, 148, 157);
-    font-size: 1rem;
+    color: rgb(164, 113, 104);
+    font-size: 1.1rem;
 }
 
 .left{
@@ -65,5 +65,5 @@ nav ul li a:hover{
 }
 
 .purple{
-    color: rgb(140, 93, 184);
+    color: rgb(173, 231, 71);
 }
